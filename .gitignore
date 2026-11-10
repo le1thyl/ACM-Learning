@@ -1,0 +1,11 @@
+# C++ 编译文件
+*.exe
+*.o
+*.out
+
+# Dev-C++ 临时文件
+*.layout
+*.depend
+
+# IDE 配置
+.idea/
